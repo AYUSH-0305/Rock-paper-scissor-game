@@ -1,0 +1,55 @@
+.container {
+    display: flex; /* Activate Flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full viewport height (optional, for demonstration) */
+    background-color: lightblue; /* Optional for visibility */
+  }
+  
+  .centered {
+    background-color:#FBF8EF;
+    padding: 20px;
+    border: 2px solid black;
+    height: 30rem;
+    width: 30rem;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+    flex-direction:column;
+  }
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-right: 40px;
+}
+.heading{
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+
+    background-color: #F96E2A;
+    height: 50px;
+}
+
+#heading_text{
+
+}
+.bt_ic{
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.bt_ch{
+    background-color: white;
+   
+    margin-top: 30px;
+}
+
+
