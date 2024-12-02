@@ -1,9 +1,9 @@
 .container {
-    display: flex; /* Activate Flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100vh; /* Full viewport height (optional, for demonstration) */
-    background-color: lightblue; /* Optional for visibility */
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    background-color: lightblue; 
   }
   
   .centered {
